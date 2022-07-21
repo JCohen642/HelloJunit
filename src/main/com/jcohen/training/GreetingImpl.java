@@ -1,4 +1,4 @@
-package com.jcohen.training;
+package main.com.jcohen.training;
 
 public class GreetingImpl implements Greeting{
 
